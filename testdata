@@ -1,0 +1,50 @@
+leisurely,other,no,>8,0,rainy,hot,M,busy,Buck-I-Mart
+leisurely,soup,yes,>8,4-8,snowy,cold,W,grumpy,Oxley's cafe
+quick,other,yes,1-3,0,rainy,mild,W,grumpy,Brennen's
+medium,other,yes,0,0,snowy,cold,F,grumpy,Oxley's cafe
+leisurely,soup,yes,1-3,>8,rainy,mild,W,happy,Brennen's
+quick,other,yes,1-3,4-8,snowy,cold,W,happy,Brennen's
+medium,sandwich,yes,1-3,>8,rainy,cold,M,happy,Oxley's cafe
+medium,soup,yes,0,4-8,snowy,cold,R,happy,Oxley's cafe
+medium,other,yes,1-3,0,snowy,cold,R,busy,Oxley's cafe
+medium,sandwich,no,>8,4-8,sunny,cold,M,happy,Oxley's cafe
+quick,sandwich,yes,>8,>8,sunny,mild,W,busy,Brennen's
+leisurely,sandwich,yes,0,1-3,sunny,hot,T,grumpy,Oxley's cafe
+quick,soup,yes,0,4-8,sunny,cold,R,grumpy,Brennen's
+leisurely,other,no,0,4-8,sunny,hot,M,happy,Brennen's
+quick,other,no,>8,>8,sunny,mild,T,busy,Brennen's
+leisurely,sandwich,yes,>8,4-8,snowy,cold,W,busy,Brennen's
+quick,sandwich,yes,1-3,4-8,sunny,cold,M,happy,Brennen's
+quick,other,yes,1-3,4-8,sunny,cold,R,happy,Brennen's
+medium,other,yes,0,>8,rainy,mild,T,busy,Oxley's cafe
+quick,sandwich,yes,>8,0,snowy,cold,M,busy,Brennen's
+quick,sandwich,no,>8,4-8,snowy,cold,M,busy,Brennen's
+medium,soup,yes,0,0,rainy,cold,T,happy,Oxley's cafe
+medium,soup,yes,1-3,4-8,rainy,cold,F,grumpy,Oxley's cafe
+leisurely,soup,no,4-8,1-3,snowy,cold,M,happy,Brennen's
+quick,soup,no,1-3,>8,snowy,cold,F,happy,Brennen's
+quick,sandwich,yes,>8,1-3,sunny,mild,M,busy,Brennen's
+leisurely,soup,yes,1-3,>8,sunny,cold,F,grumpy,Oxley's cafe
+medium,other,no,1-3,4-8,sunny,mild,F,busy,Oxley's cafe
+leisurely,sandwich,yes,0,0,snowy,cold,W,happy,Oxley's cafe
+leisurely,other,no,1-3,0,rainy,cold,R,happy,Brennen's
+quick,sandwich,yes,>8,4-8,rainy,mild,R,grumpy,Brennen's
+medium,soup,yes,1-3,>8,sunny,hot,T,grumpy,Oxley's cafe
+medium,other,yes,>8,>8,rainy,mild,T,busy,Oxley's cafe
+leisurely,other,no,>8,0,rainy,hot,R,happy,Brennen's
+quick,other,yes,1-3,>8,rainy,mild,W,busy,Brennen's
+leisurely,sandwich,no,4-8,4-8,snowy,cold,M,happy,Oxley's cafe
+medium,soup,no,0,4-8,rainy,mild,T,busy,Oxley's cafe
+leisurely,sandwich,yes,4-8,>8,rainy,hot,T,grumpy,Oxley's cafe
+quick,soup,no,4-8,>8,snowy,cold,R,busy,Brennen's
+medium,soup,yes,0,4-8,sunny,mild,R,busy,Oxley's cafe
+quick,soup,no,4-8,>8,sunny,hot,T,busy,Brennen's
+quick,other,no,>8,>8,sunny,cold,M,busy,Brennen's
+quick,sandwich,yes,>8,0,rainy,mild,F,busy,Brennen's
+quick,soup,yes,4-8,0,sunny,cold,M,busy,Brennen's
+medium,sandwich,yes,4-8,0,sunny,hot,R,busy,Oxley's cafe
+leisurely,soup,no,4-8,>8,rainy,cold,F,happy,Brennen's
+medium,soup,yes,>8,>8,sunny,mild,T,busy,Oxley's cafe
+quick,soup,yes,0,>8,rainy,hot,T,grumpy,Brennen's
+medium,other,yes,1-3,1-3,rainy,cold,T,grumpy,Oxley's cafe
+quick,sandwich,yes,0,4-8,sunny,cold,W,busy,Brennen's

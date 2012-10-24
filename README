@@ -1,0 +1,6 @@
+enter into the shell
+$ python decision_tree.py attributes traindata testdata
+
+the output is:
+correct_value compare: found_value
+

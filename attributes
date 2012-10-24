@@ -1,0 +1,10 @@
+timelength: quick, medium, leisurely
+pref: soup, sandwich, other
+coffee: no, yes
+numberofpeopleoxleys: 0, 1-3, 4-8, >8
+numberofpeoplebuckimart: 0, 1-3, 4-8, >8
+weather: sunny, rainy, snowy
+temp: cold, mild, hot
+dayofweek: M, T, W, R, F
+mood: happy, grumpy, busy
+: Buck-I-Mart, Oxley's, Oxley's cafe, Brennen's
